@@ -1,0 +1,2 @@
+C:\Users\Son\source\repos\CsharpLAB-5\Workshop8.2\obj\Debug\Workshop8.2.csprojAssemblyReference.cache
+C:\Users\Son\source\repos\CsharpLAB-5\Workshop8.2\obj\Debug\Workshop8.2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\Son\source\repos\CsharpLAB-5\Worshop7.3\bin\Debug\Worshop7.3.exe.config
+C:\Users\Son\source\repos\CsharpLAB-5\Worshop7.3\bin\Debug\Worshop7.3.exe
+C:\Users\Son\source\repos\CsharpLAB-5\Worshop7.3\bin\Debug\Worshop7.3.pdb
+C:\Users\Son\source\repos\CsharpLAB-5\Worshop7.3\obj\Debug\Worshop7.3.csprojAssemblyReference.cache
+C:\Users\Son\source\repos\CsharpLAB-5\Worshop7.3\obj\Debug\Worshop7.3.csproj.CoreCompileInputs.cache
+C:\Users\Son\source\repos\CsharpLAB-5\Worshop7.3\obj\Debug\Worshop7.3.exe
+C:\Users\Son\source\repos\CsharpLAB-5\Worshop7.3\obj\Debug\Worshop7.3.pdb

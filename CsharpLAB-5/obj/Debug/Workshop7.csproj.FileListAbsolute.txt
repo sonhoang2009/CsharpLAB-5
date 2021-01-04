@@ -1,0 +1,7 @@
+C:\Users\Son\source\repos\CsharpLAB-5\CsharpLAB-5\obj\Debug\Workshop7.csprojAssemblyReference.cache
+C:\Users\Son\source\repos\CsharpLAB-5\CsharpLAB-5\obj\Debug\Workshop7.csproj.CoreCompileInputs.cache
+C:\Users\Son\source\repos\CsharpLAB-5\CsharpLAB-5\bin\Debug\CsharpLAB-5.exe.config
+C:\Users\Son\source\repos\CsharpLAB-5\CsharpLAB-5\bin\Debug\CsharpLAB-5.exe
+C:\Users\Son\source\repos\CsharpLAB-5\CsharpLAB-5\bin\Debug\CsharpLAB-5.pdb
+C:\Users\Son\source\repos\CsharpLAB-5\CsharpLAB-5\obj\Debug\CsharpLAB-5.exe
+C:\Users\Son\source\repos\CsharpLAB-5\CsharpLAB-5\obj\Debug\CsharpLAB-5.pdb
